@@ -11,7 +11,7 @@
 - Risk score + severity breakdown
 - Optional report output to file
 
-> Ideal for: bug bounty, pentest recon, blue-team audits, CentiSec Academy labs, etc.
+> Ideal for: bug bounty, pentest recon, blue-team audits etc.
 
 ---
 
